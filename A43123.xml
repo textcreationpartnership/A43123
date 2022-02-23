@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The skirmisher confounded being a collection of several passages taken forth of some books of John Cheyney's, who stiles himself the author of the skirmish upon Quakerism : in which is the baseness, wickedness, collected by ...  Roger Haydocke.</title>
+            <author>Haydock, Roger, 1643-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43123</idno>
+            <idno type="STC">Wing H1208</idno>
+            <idno type="STC">ESTC R30759</idno>
+            <idno type="EEBO-CITATION">11467242</idno>
+            <idno type="OCLC">ocm 11467242</idno>
+            <idno type="VID">47789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1463:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The skirmisher confounded being a collection of several passages taken forth of some books of John Cheyney's, who stiles himself the author of the skirmish upon Quakerism : in which is the baseness, wickedness, collected by ...  Roger Haydocke.</title>
+                  <author>Haydock, Roger, 1643-1696.</author>
+               </titleStmt>
+               <extent>3-15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. C. --  (John Cheyney)</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47789:1"/>
+            <pb facs="tcp:47789:1"/>
+            <p>THE SKIRMISHER CONFOUNDED: Being a Collection of ſeveral Paſſages taken forth of ſome Books of <hi>John Cheyney</hi>'s, who ſtiles himſelf, <hi>The Author of the Skirmiſh upon Quakeriſm;</hi>
+            </p>
+            <p>In which is the Baſeneſs, Wickedneſs, Contra<g ref="char:EOLhyphen"/>dictions, Lyes, Hypocriſie, Unbelief, Confuſion and Blaſphemy of that Skirmiſhing Prieſt diſco<g ref="char:EOLhyphen"/>vered, and he laid open to the View of every one who ſhall read with a ſingle Eye,</p>
+            <p>Collected by a Friend to the Truth, and a Well-wiſher to the Souls of all People, <hi>Roger Haydocke.</hi>
+            </p>
+            <q>
+               <bibl>Iſa. 55.17.</bibl>
+               <p>No Weapon that is formed againſt thee ſhall proſper, and every Tongue that ſhall riſe up in judgment againſt thee thou ſhalt condemn; this is the Heritage of the Servants of the Lord, and their Righteouſneſs is of me, ſaith the Lord.</p>
+               <bibl>Pſal 7.15.</bibl>
+               <p>He made a Pit, and digged it, and is fallen into the Ditch which he made.</p>
+            </q>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47789:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47789:2" rendition="simple:additions"/>
+            <head>THE Skirmiſher CONFOUNDED.</head>
+            <p>IOhn Cheyney's <hi>Book entituled,</hi> A Call to Prayer, <hi>&amp;c in the Preface to the Reader, ſaith thus,</hi> I would be loath to faſten any Error upon any Perſon, which I can perceive him not to hold, and I would candidly interpret all words ſo far as I can with Conſcience and Juſtice to the Truth.</p>
+            <p>
+               <hi>The next page of the ſame Preface to the Reader, thus.</hi> I do not know but by their Opinion of the Light within, Devils and damned Souls may be ſaved.</p>
+            <p>
+               <hi>In his Book entituled,</hi> The Skirmiſh, <hi>&amp;c. p. 4. Penn's</hi> Poſi<g ref="char:EOLhyphen"/>tion doth juſt fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Iriſh</hi> Rebellion, the <hi>French</hi> Maſſacree, the <hi>Marian</hi> Perſecution, the Ten Perſecutions of the Primitive Churches, the Gun-powder Treaſon.</p>
+            <p>
+               <hi>Page 13. of the ſame Book,</hi> I would be glad to make the beſt I can of your Poſition.</p>
+            <p>Animadverſion, <hi>Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there be greater Baſeneſs, then under Pretence of Candor to be thus Abſurd? Is it not great wic<g ref="char:EOLhyphen"/>kedneſs in this Skirmiſher, to make ſuch Ungodly Conſequen<g ref="char:EOLhyphen"/>ces of ſo Harmleſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Poſition, and yet afterwards ſay, He would be glad to make the beſt he can of it.</hi>
+            </p>
+            <div type="contradictions">
+               <pb n="4" facs="tcp:47789:3"/>
+               <head>Here followeth the Prieſt's Contra<g ref="char:EOLhyphen"/>dictions.</head>
+               <p>John Cheyney <hi>The</hi> Skirmiſher <hi>againſt</hi> OR <hi>fighting</hi> John Cheyney, Himſelf.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Aſſertion.</cell>
+                        <cell role="label">
+                           <hi>Contradiction.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1. CAll to Prayer, pa. 117. <hi>I dare ſay, let the Light within alone, and ſay nothing to it, and it ſhall never move any</hi> Qua<g ref="char:EOLhyphen"/>ker <hi>or ungodly Soul to pray till Death, or the Flames of Hell ſhall awake them.</hi>
+                        </cell>
+                        <cell>1. <hi>CAll to Prayer, pag.</hi> 119. For though the Light may move, yet it will be but a weak Mo<g ref="char:EOLhyphen"/>tion, and the Motion of the Darkneſs or Fleſhly Part will overcome.</cell>
+                     </row>
+                     <row>
+                        <cell>2. p. 119. <hi>A</hi> Qua. <hi>or any o<g ref="char:EOLhyphen"/>ther may live a ſecure fleſh pleaſing life all his dayes, &amp; never have one effectual motion to prayer if he be ru<g ref="char:EOLhyphen"/>led by the Light within.</hi>
+                        </cell>
+                        <cell>2. <hi>Pag.</hi> 119. That which ſhould Move them to Prayer, the Light within, is over powered by the Darkneſs.</cell>
+                     </row>
+                     <row>
+                        <cell>3. Pag. 119. <hi>The</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>could hardly deviſe a more ſin-pleaſing Doctrine, then never to pray without
+<pb n="5" facs="tcp:47789:3"/>a Motion from the Light within.</hi>
+                        </cell>
+                        <cell>3. <hi>Pag.</hi> 118. I'le tell thee what keeps me from Prayer, when my Con<g ref="char:EOLhyphen"/>ſcience &amp; the Light with<g ref="char:EOLhyphen"/>in moves me to Prayer, my Sloath and Lazineſs, my Deadneſs, want of Life and Hunger, and Spirit in my Soul.</cell>
+                     </row>
+                     <row>
+                        <cell>4. Pa. 109. <hi>Their grand Principle of the Light with<g ref="char:EOLhyphen"/>in is not conſiſtent with right Prayer.</hi>
+                        </cell>
+                        <cell>4. <hi>Pag.</hi> 3, 4. Right Pray<g ref="char:EOLhyphen"/>er is not meer words, nor a meer work of Nature, nor bare humane induſtry and ſtriving without the ſpecial Grace and Con<g ref="char:EOLhyphen"/>currance of God.</cell>
+                     </row>
+                     <row>
+                        <cell>5. P. 76. <hi>The Spirit of God is a Spirit of Supplicati<g ref="char:EOLhyphen"/>on, he commands and moves to prayer.</hi> p. 20. <hi>The Spirit doth intercede in us</hi>—<hi>we could do nothing without the ſpecial help of God's ſpi<g ref="char:EOLhyphen"/>rit</hi> — <hi>without the ſpecial help of God's ſpirit we can do no ſpecial Work.</hi>
+                        </cell>
+                        <cell>5. <hi>Pag.</hi> 115. Their great Aſſertion, that Prayer is not to be done without the Motion of the Light within— ſome have con<g ref="char:EOLhyphen"/>feſſed, they never pray without a Motion from the Spirit of God. <hi>Pag.</hi> 98. You need no Motion of the Spirit to tell you when to feed and clothe your Bodies; but you need a motion from the Spirit to put you upon to dreſs and feed your Souls.</cell>
+                     </row>
+                     <row>
+                        <cell>6. Quakeriſm ſubver<g ref="char:EOLhyphen"/>ted, p. 18. <hi>The Light within tells me, there is a God.</hi>
+                        </cell>
+                        <cell>6. <hi>Pag.</hi> 101. Truſt not that blind deceitful Guide within you, the Light within you, leſt it lead you into everlaſting dark<g ref="char:EOLhyphen"/>neſs.</cell>
+                     </row>
+                     <pb n="6" facs="tcp:47789:4"/>
+                     <row>
+                        <cell>7. Skirmiſh. p. 13. <hi>The Light within, which ſhould be man's Guide, takes part with the fleſh and Satan a<g ref="char:EOLhyphen"/>gainſt God.</hi>
+                        </cell>
+                        <cell>7. <hi>Pag.</hi> 61. When God and Conſcience have cal<g ref="char:EOLhyphen"/>led to this Duty, a lazy, carnal, ſelf-willed Mind has kept us away.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Call to Pray. p. 111. <hi>They are no people of prayer and make no uſe of prayer:</hi> p. 101. <hi>A prayerleſs people of a prayerleſs Religion</hi>— <hi>Prayerleſs Pretenders to Holineſs.</hi>
+                        </cell>
+                        <cell>8. <hi>Pag.</hi> 114. If Report be true when they do pray; for I have heard &amp; believe, that ſometimes they pray.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Skirmiſh. p. 13 <hi>If the Scriptures go, farewel God and Chriſt, and Heaven, and all Law and Rule.</hi>
+                        </cell>
+                        <cell>9. <hi>Pag.</hi> 62. Muſt a hun<g ref="char:EOLhyphen"/>gry man need a Scripture to tell him how often he muſt eat? no more doth a hungry Soul need a Scri<g ref="char:EOLhyphen"/>pture to tell him how of<g ref="char:EOLhyphen"/>ten he muſt pray.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Beſides theſe Contradictions out of his Books, I ſhall add one more out of two Manuſcripts written with his own Hand, which I think he will not deny (and I am certain in this be hath no Cauſe to Blame the <hi>Printer,</hi> as ſome time he did, but if he deny it, I can both produce and prove it.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>10. <hi>O Lord, thou know<g ref="char:EOLhyphen"/>est that I am what I profeſs my ſelf to be, thy Servant, ſincere and upright,</hi>
+                        </cell>
+                        <cell>10. Given forth by a weak believing Chriſti<g ref="char:EOLhyphen"/>an, and diſobedient Ser<g ref="char:EOLhyphen"/>vant of Chriſt.</cell>
+                     </row>
+                     <row>
+                        <cell>John Cheyney.</cell>
+                        <cell>
+                           <hi>John Cheyney.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:47789:4"/>
+               <head>I ſhall here ſet down ſome of his Confeſſions to the Light, Grace and Spirit of God, and then diſcover his Lyes, &amp;c.</head>
+               <q>
+                  <bibl>Page 120.</bibl> 
+                  <hi>THe Light then prevails Habitually, and there is a kind of continual Exerciſe of the Soul by internal Prayer.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 122.</bibl> 
+                  <hi>The Soul and Heart of Prayer is within ſeen to God.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 4.</bibl> 
+                  <hi>There is a great deal of Praying outwardly which is not right and ſincere praying, outward Balling and Canting.</hi>
+               </q>
+               <q>
+                  <bibl>Pag 90.</bibl> 
+                  <hi>He that turneth away his Ear from hearing the Law, even his Prayer ſhall be Abomination.</hi>
+               </q>
+               <p>
+                  <label>R. H. queries,</label> Is not the Law Light? and where is this Law and the Ear alſo that ſhould be turned to it, without man or within man?</p>
+               <q>
+                  <bibl>Pag. 7.</bibl> 
+                  <hi>All right Prayer muſt be in the Name of the Lord Jeſus Chriſt</hi>—<hi>The bare naming of Chriſt is not enough.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 12.</bibl> 
+                  <hi>Whilſt there is Grace in the Soul, there will be a Root of Prayer.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 28.</bibl> 
+                  <hi>What is God to me, if I have no Life or Spirit in me, wherewith to ſeek him, and apply my ſelf to him.</hi>
+               </q>
+               <p>
+                  <label>R. H. queries,</label> Whether all men have not need of Life or Spirit in them (as well as prieſt <hi>Cheyney</hi>) wherewith to ſeek God, and apply themſelves to God? and if ſo, why does this prieſt tell the people, The <hi>Quakers</hi> mangle God and Chriſt, and cut them in pieces, becauſe they ſay, God hath given peo<g ref="char:EOLhyphen"/>ple a Meaſure of Life, Light and Spirit, wherewith they may ſeek after and apply themſelves to God?</p>
+               <q>
+                  <bibl>Pag. 20.</bibl> 
+                  <hi>The spirit doth intercede in us by a kind of continu<g ref="char:EOLhyphen"/>al reſtleſs Motion and importunity towards God.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 57.</bibl> 
+                  <hi>Wicked people, were it not to ſtill their Conſciences, they would not pray that little which they do.</hi>
+               </q>
+               <p>
+                  <label>R. H. queries,</label> Doth not the Light in the Conſcience move
+<pb n="8" facs="tcp:47789:5"/>them to pray? is it as a drunken negligent Coach-man? or rather, doth it not do its Office truly, and is clear of the Prieſt's wicked Charge? Hear him further.</p>
+               <q>
+                  <bibl>Pag. 84.</bibl> 
+                  <hi>This is the Language and Practice of Wordlineſs, ſtand by God, ſtand by Chriſt and Eternal Life, ceaſe Conſci<g ref="char:EOLhyphen"/>ence, away Spirit, let my Soul ſink.</hi>
+               </q>
+               <p>
+                  <label>R. H.</label> Sure God and Chriſt, the Light and Spirit are not to be blamed, ſince they are bidden ſtand by, and are turned from before the Soul can ſink; but what a Strait doth this bring the <hi>Skirmiſher</hi> into? who in his Book intituled <hi>Quakeriſm ſub<g ref="char:EOLhyphen"/>verted,</hi> p. 31. tells us, <q>
+                     <hi>If the Light be blameleſs,</hi> or in Effect he ſaith, (for his Words admit of the Conſequence) <hi>If there be any thing in man, though of God and not of man, that is Innocent and Blameleſs before God, then the</hi> Quakers <hi>are in the Right, and all that he hath writ, as alſo his</hi> Skirmiſh <hi>muſt fall to the Ground, and he muſt acknowledge himſelf to be utterly defeated, and to have loſt the Day.</hi>
+                  </q>
+               </p>
+               <p>Now, that there is ſomething of God in man, he alſo grants p. 28. of the ſame Book, in theſe Words, <q>
+                     <hi>There is ſomething of God, ſomething of Satan, Fleſh and Spirit, Light and Darkneſs.</hi>
+                  </q>
+               </p>
+               <p>Now to the Conſcience of the Reader in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of God do I leave it, that Judgment may be given betwixt the <hi>Skirmiſher</hi> and the <hi>Quakers,</hi> whether the <hi>Skirmiſher</hi> be not utterly rout<g ref="char:EOLhyphen"/>ted. Hear him further.</p>
+               <q>
+                  <bibl>
+                     <hi>Call to Prayer,</hi> p. 103.</bibl> 
+                  <hi>So dangerous it is to reſiſt the Spirit of the Lord, and to impriſon the Truth in <g ref="char:V">Ʋ</g>nrighteouſneſs, and to go about to ſalve an <g ref="char:V">Ʋ</g>lcerous Conſcience by falſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ures, they may ſerve for a while, but the Day is at Hand when God w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll ſearch us all.</hi>
+               </q>
+               <p>
+                  <label>R. H.</label> The Prieſt grants the Spirit of the Lord may be reſi<g ref="char:EOLhyphen"/>ſted, and the Truth in Unrighteouſneſs impriſoned: Now I query whether this Reſiſting the Spirit, and Impriſoning the Truth be within man, or without him?</p>
+               <p>
+                  <q>
+                     <bibl>Pag. 41.</bibl> 
+                     <hi>A Gracious Man</hi> (ſaith the Prieſt) <hi>may ſilently worſhip God, and ſpeak to God, and ſo as none may hear but him<g ref="char:EOLhyphen"/>ſelf, and yet he moſt fervent in Prayer,</hi>
+                  </q> and yet this Prieſt ſcof<g ref="char:EOLhyphen"/>fingly ſaith, <q>
+                     <bibl>p. 101, 102.</bibl> 
+                     <hi>How many dumb and ſilent Meet<g ref="char:EOLhyphen"/>ings
+<pb n="9" facs="tcp:47789:5"/>have you? without either prayer or preaching.</hi>
+                  </q> 
+                  <q>
+                     <bibl>P. 19.</bibl> 
+                     <hi>Men may give us Words and Forms to uſe, but they cannot give us the spirit of Grace and Supplication,</hi>
+                  </q> 
+                  <q>
+                     <bibl>p. 17.</bibl> 
+                     <hi>Who knows how to pray to God, further then God ſhall teach and enable him?</hi>
+                  </q>
+               </p>
+               <p>
+                  <label>R. H. querieth,</label> whether it be not ſafe for all then, to feel God's Spirit with them to teach them in Prayer? Hear what the Prieſt himſelf ſaith.</p>
+               <q>
+                  <bibl>Pag. 21.</bibl> 
+                  <hi>When the spirit of the Lord is from man he can do nothing, Prayer ſticks in his Mouth like choak-Cheeſe.</hi>
+               </q>
+               <p>Thus much by the Prieſt in Honour of the Light, Grace and Spirit of God in Prayer. I ſhall here add ſome of the Prieſt's Lyes and ſo proceed.</p>
+               <q>
+                  <bibl>Pag. 122.</bibl> 
+                  <hi>The</hi> Quakers <hi>declare themſelves to be Hypocrites.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 50.</bibl> 
+                  <hi>Chriſt anſwers, get you gone, away with you</hi> (to wit, <hi>the five Fooliſh Virgins</hi>) <hi>ye are Workers of Iniquity, I ne<g ref="char:EOLhyphen"/>ver knew you.</hi>
+               </q>
+               <q>
+                  <bibl>Page 140.</bibl> 
+                  <hi>I am paſſed through the Red-Sea,</hi> Egypt <hi>is behind me; I am eſcaped out of</hi> Sodom; <hi>I am from under the Bondage of spiritual</hi> Pharoah, <hi>the Devil, who once was my Father and Maſter.</hi>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Skirmiſh,</hi> p. 2.</bibl> 
+                  <hi>The</hi> QUAKERS PROFESS <hi>to build their Religion and Hopes upon the Scriptures.</hi>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Call to Prayer,</hi> p. 15.</bibl> 
+                  <hi>God hears wicked men in their Di<g ref="char:EOLhyphen"/>ſtreſs, and grants them many Good things in Anſwer to their Prayers.</hi>
+               </q>
+               <p>
+                  <label>Anſw.</label> This contradicteth the Scripture, <hi>If I</hi> (ſaith <hi>David</hi>) <hi>regard Iniquity in my Heart, the Lord will not hear me,</hi> Pſal. 66.18.</p>
+               <p>Beſides theſe there are many other forged Lyes in his Books, which for Brevity Sake I paſs by at this time, he tells the World, <q>
+                     <bibl>p. 115.</bibl> 
+                     <hi>That he hath diſcourſed with ſome</hi> Quakers, <hi>who have confeſſed to him that they never pray without a Motion from God's spirit.</hi>
+                  </q>
+               </p>
+               <p>
+                  <label>R. H. querieth,</label> Why ſhould they pray without God's Spi<g ref="char:EOLhyphen"/>rit? J. C. himſelf confeſſeth elſewhere (as I have hinted before)
+<pb n="10" facs="tcp:47789:6"/>that nothing can be done in Prayer without the eſpecial Help of God's Spirit, yet he blames the <hi>Quakers</hi> for refuſing to pray without the Spirit move them; but had they not better do ſo, then to go before or without the Spirit, and have their Prayer ſtick in their Mouthes like Choak-Cheeſe, and ſaid <hi>John Cheyney</hi> before: But in this I have Reaſon to ſuſpect Forgery, that thoſe <hi>Quakers</hi> ſhould confeſs to him, they in many Years have not had a Motion to Prayer. Now if his tale be true let him give us the Names of ſuch, if it be falſe, let his Iniquity ſtop his Mouth, and let Shame come over him. But to pro<g ref="char:EOLhyphen"/>ceed.</p>
+               <q>
+                  <bibl>
+                     <hi>Call to Prayer,</hi> p. 42.</bibl> 
+                  <hi>God is a spirit, and be requires the spirit in every Performance, and nothing but the Life and Spi<g ref="char:EOLhyphen"/>rit, and Zeal and Fervency in all our Duties and Services will pleaſe him.</hi> Mal. 1. &amp; laſt, <hi>Curſed be the Deceiver which hath a Male in his Flock, and voweth and ſacrificeth unto God a cor<g ref="char:EOLhyphen"/>rupt thing.</hi>
+               </q>
+               <p>
+                  <label>R. H.</label> Well, enough for the Downfal of this <hi>Skirmiſher:</hi> The Prieſt confeſſeth, he hath a Male, aſſerts, God requireth nothing elſe, neither will be pleaſed with any thing elſe, but Spirit, Life, Zeal and Fervency; he grants, that the Deceiver who hath a <hi>Male,</hi> may ſacrifice to God a corrupt thing, <hi>to wit,</hi> A Cold, Diſtracted, Life-leſs, Dead Prayer; and ſuch Pray<g ref="char:EOLhyphen"/>ers, Offerings and Sacrifices are Abomination to God, no more pleaſing to him, then was the cutting off of a Dogs Neck, or offering Swines Blood, and unto ſuch Deceivers the Curſe is due.</p>
+               <p>Now how near this Prieſt <hi>Cheyney</hi>'s Prayers are thereunto read in his own Words publiſhed to the World, which need little Animadverſion, becauſe they ſpeak fully of themſelves; he ought not to be angry with me for repeating them, ſince he hath cauſed them to be printed, if he be aſhamed of them let him call them in and recant, and what I have in my Cuſtody, he ſhall have freely; but to the Matter, in order to ſignifie his Hypocriſie.</p>
+               <q>
+                  <bibl>
+                     <hi>Call to Prayer,</hi> p. 45, 46.</bibl> 
+                  <hi>We all come under reproof for our
+<pb n="12" facs="tcp:47789:6"/>coldneſs and deadneſs in Prayer, there is much deteſtable hypo<g ref="char:EOLhyphen"/>criſie and coldneſs committed by us in our ſolemn Prayers to God, both in ſecret, in private and in publick.</hi> Doth not this ſpeak forth it ſelf? But hear him further. <hi>What is this but to mock the Almighty God, and to ſport with conſuming Fire, and dally and play with Everlaſting Torment, and be in jeſt and complement with Heaven and Hell, and make a light matter of ſin and eter<g ref="char:EOLhyphen"/>nity; What is this but a prophanation of God's Name, and going to Hell upon our Knees, and a provoking God to deny us thoſe Mer<g ref="char:EOLhyphen"/>cies which we ſo faintly beg?— Why do we pray like canting Beggars, like Dreamers and Sleepers?</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 135.</bibl> 
+                  <hi>O my God forgive me all my Omiſſion of prayer, all my Coldneſs, Deadneſs, Lukewarmneſs and Diſtractions in Prayer.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 139.</bibl> 
+                  <hi>I am diſtracted in Prayer, I am ſoon weary, I come poorly off, my Foes are too hard for me</hi>—<hi>Why go I mourning all the Day long, when the Comforter which ſhould relieve my Soul is gone from me?</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 145.</bibl> 
+                  <hi>It is a great Miſery as well as Sin to be lukewarm in Prayer</hi>— <hi>Tremble to have my lukewarm Prayers abhorred by God, and ſpued out of his Mouth, and caſt in my Face as Dung.</hi> — <hi>If I get to Heaven it muſt be by this Trade of begging.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 143.</bibl> This Prieſt <hi>Cheyney</hi> tells us, <hi>If he be idle in prayer he ſhall have but a ragged tattered Soul,</hi> Mark, he ſaith, <hi>I ſhall not be able to cover or conceal my Wickedneſs from the World.</hi>
+               </q>
+               <p>
+                  <label>R. H. querieth,</label> whether this be not a Hypocrite indeed, who by diſtracted prayers thinks to hide his Wickedneſs from the World? Hear him further.</p>
+               <q>
+                  <bibl>Pag. 47.</bibl> 
+                  <hi>O loytering Souls, unprofitable and unfruitful Ser<g ref="char:EOLhyphen"/>vants all of us to our heavenly Maſter! Let us be aſham<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d of our Doings, and mend our Prayers, leſt God sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e them out of his Mouth.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 131.</bibl> 
+                  <hi>Hadſt thou, O my Soul, but a right Senſe of Gods thou couldſt not but be fervent in Prayer; thou prayeſt, but how? Exceeding coldly.</hi>
+               </q>
+               <p>
+                  <label>R. H.</label> The Prieſt grants he hath not a right Senſe of God,
+<pb n="12" facs="tcp:47789:7"/>and that he prayes exceeding coldly, yet in page 141 he ſaith, <q>
+                     <hi>But the Lord is with me, and ſhall preſerve me unto his heavenly Kingdom;</hi>
+                  </q> but mark Reader, what follows in the ſame page, <q>
+                     <hi>But yet my Soul is much ſadded &amp; caſt down when I conſider what Strivings and Fightings there is in my Prayer againſt it ſelf, one part in me would be more holy, and another part contradicteth it, and would be as I am, and have leave to be unholy; one ſide is for God and for Heaven, and the other ſide ſavoureth Earth, and is all for the Fleſh, and grudgeth every painful ſigh for Heaven; O how is my Soul toſſed between theſe two Contenders! and I am compelled to pray</hi> Hypocritically, <hi>and</hi> Diſſemble <hi>with God, and utter <g ref="char:V">Ʋ</g>ntruths to him that ſearcheth the Hearts, and delighteth not but in <g ref="char:V">Ʋ</g>pright Lips.</hi>
+                  </q>
+               </p>
+               <p>But this is not all, (though enough to confound this <hi>Skirmi<g ref="char:EOLhyphen"/>ſher</hi>) Yet he ſhuts up himſelf in Unbelief, hear him, <hi>But ei<g ref="char:EOLhyphen"/>ther it muſt be ſo in part, or there will be no praying in this World.</hi>
+               </p>
+               <p>
+                  <label>R. H. querieth,</label> Muſt there either be Hypocritical Praying, Diſſembling with God, and uttering Untruths to him that ſearcheth the Hearts, or no praying in this VVorld? God forbid: Let this Lying, Diſſembling, Hypocrite's Mouth be ſtopt, the Spirit of God inditeth better Matter, it teacheth all the Sons of God, who are led by it, to pray with it, and with Underſtanding (not rude or diſtracted, like Prieſt <hi>Cheyney</hi>) but to offer to God what God hath prepared; for he prepares the Morning and the Evening Sacrifice, which as ſweet Incenſe is accepted of him; he hears his own Spirit, and another Spirit he will not hear. Hear what he ſaith of their Congregations.</p>
+               <q>
+                  <bibl>
+                     <hi>Call to Prayer,</hi> p. 30.</bibl> 
+                  <hi>O how little of Prayer is there in our Congregations? indeed there is praying in many Congregations, but it is rather a Mocking of God, moſt vile Hypocriſie; ſo often as the publick Prayers are read and repeated by the Miniſter and People, ſo often the Name of God is taken in vain exceedingly by many Hypocritical Miniſters and people:</hi> and yet the Prieſt ſaith of himſelf, p. 142 <hi>I am the moſt Rude and <g ref="char:V">Ʋ</g>nskilful of all thy Miniſters.</hi>
+               </q>
+               <pb n="13" facs="tcp:47789:7" rendition="simple:additions"/>
+               <p>I ſhall now touch his Confuſion, and ſo diſcover his Blaſphe<g ref="char:EOLhyphen"/>my.</p>
+               <q>
+                  <bibl>
+                     <hi>Call to Prayer,</hi> p. 16.</bibl> 
+                  <hi>Prayer is a Holy and Reverend Com<g ref="char:EOLhyphen"/>munion of ſinful Duſt and Aſhes, with the great and glorious God.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 108.</bibl> He tells of a <hi>Quaker, that had ſo much of Chriſt's Spirit and Religion</hi> Outwardly in Him, <hi>as to pray.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 52.</bibl> 
+                  <hi>I think there are but few Hypocrites that keep up a conſtant Courſe of Prayer, and yet I cannot ſay, but there may be ſome and</hi> Many.</q>
+               <q>
+                  <bibl>Pag. 145.</bibl> 
+                  <hi>Though Chriſt be not preſent upon Earth Corpo<g ref="char:EOLhyphen"/>rally and Carnally, he is truly preſent by his Spirit, and he dwells in his Saints;</hi> This latter is for the Quakers;</q>
+               <q>
+                  <bibl>Pag. 66.</bibl> The Prieſt ſaith, <hi>Behold we are lean, exceeding lean, like blaſted Corn, there is Husk, but no Corn.</hi>
+               </q>
+               <q>
+                  <bibl>Pag. 72.</bibl> 
+                  <hi>Thence it is that we are like raw Fleſh, unſodden Chriſtians, Milk-ſops.</hi>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Quakeriſm Subverted,</hi> Pag. 27, 28.</bibl> The Prieſt ſaith, <hi>In every man, ſince the Fall, there is ſomething of God and ſomething of Satan, Fleſh and Spirit, Light and Darkneſs.</hi> Page 34. he ſaith, <hi>(This Light which is ſomething of God, by him placed in Oppoſition to Satan, Spirit in Oppoſition to Fleſh) is guilty of all ſins of Omiſſion and Commiſſion, which the Soul is charged with, &amp; guilty of; it hath a Hand in all Thought ſins, Hears ſins, Tongue ſins, Life ſins;</hi> This is the Language of this Blaſphemer. Hear him further.</q>
+               <q>
+                  <bibl>Pag. 21.</bibl> 
+                  <hi>The worſt of men hath a Light within him, and ſo we ſay, that Jeſus Chriſt is the true Light, which enlightneth e<g ref="char:EOLhyphen"/>very man that cometh into the World,</hi> John 1.9. Page 23. He calls <hi>this Light within, the</hi> Quakers Diana. <hi>Call to Prayer,</hi> p. 112. <hi>The</hi> Quakers Dagon. In Blaſphemy of the true God and Chriſt, once more hear him, <hi>Quakeriſm ſubverted,</hi> page 33. <hi>The Light goes down with the Soul into Hell,</hi> p. 34 <hi>The Light within, in Hell, is turned into a Self-tormenting Light.</hi> What is this but to ſay, The Light of Chriſt tormenteth it ſelf in Hell; Confuſion and Blaſphemy.</q>
+               <pb n="14" facs="tcp:47789:8"/>
+               <p>But for all this, this skirmiſhing Prieſt would not be called a Deceiver, Lyar, Hypocrite, no more would his Generation the <hi>Scribes</hi> and <hi>Phariſees</hi> of old, yet he tells us himſelf, <q>
+                     <bibl>
+                        <hi>Call to Prayer,</hi> p. 113.</bibl> 
+                     <hi>I could bring many that could not endure ſuch Miniſters as I.</hi>
+                  </q> No marvail, <hi>Skirmiſher;</hi> many ſee thee to be a Cloud without Water; but if this Prieſt mean his own Ge<g ref="char:EOLhyphen"/>neration, it is no Wonder; for though it be not very long ſince he turned Parſon, and crept in among the <hi>Chimmerims,</hi> or men of the Black Robe (for formerly he was a Juſtice's Clark, and thirſted eagerly after the <hi>Quakers</hi> Money, but as yet I hear not that he returned them their Money again) yet in this ſhort time he hath defiled his own Neſt, charged his Bre<g ref="char:EOLhyphen"/>thren with vile Hypocriſie, ſtilled them Hypocritical Miniſters, yet of himſelf ſaith, <hi>I am the moſt rude and unskilful of all thy Miniſters;</hi> hath he not marked his own Noſe? What con<g ref="char:EOLhyphen"/>ſtrained him to pray Hypocritically, diſſemble with God, and lye to the Almighty? Not the Truth; for there is no Lye of it; not the Spirit of Truth; for that leadeth into all Truth: He hath been acted by another Spirit. Well he is ſeen by many to be what he is, an Hypocrite.</p>
+               <p>And whereas he ſaith, many will not endure ſuch Preachers as he, I add, no Doubt; but from henceforth ſome that have heard him, and approved of him, being ſimply betrayed by him, now ſeeing him, will hear him no more, but quite turn their Backs of that Rude, Diſtracted, Hypocritical, Diſſem<g ref="char:EOLhyphen"/>bling, Lying Miniſter, all which his own Confeſſion proves him to be; alſo a Baſe, Wicked, Confuſed, Blaſpheming Prieſt, all which his own Works prove him to be.</p>
+               <p>Now if any moderate Inquirer ſhall ask a Reaſon why I heap theſe things upon him? I anſwer, I am only an Inſtrument in the Lord's Hand, and the God of Heaven is pouring Contempt upon him; he hath lift up himſelf, and not by the Lord, and therefore the Lord is caſting him down. For the Truth's Sake, and for the Sake of the ſimple hearted where this may come, have I collected theſe paſſages out of his Works, giving the Title of the Book and Page, in which whoſo deſires may in his
+<pb n="15" facs="tcp:47789:8"/>Books read them more at large, many Groſs things I have paſt by in his Books, eſpecially <hi>Quakeriſm ſubverted,</hi> as alſo in his <hi>Skirmiſh,</hi> the latter being fully anſwered already: It is for Truth's Sake, and the Sake of Peoples Souls which are miſguided, that thus far I have run through his dirty Channel; what I have written I commend to every Man's Conſcience in the Sight of God, who am Truth's Friend, and the Soul's Friend, but an Enemy to that which miſguideth it.</p>
+               <closer>
+                  <signed>Roger Haydock.</signed>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
